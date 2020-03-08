@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_3.01</string>
+    <string name="stop_message">STOP.....</string>
+    <string name="testbox1">Enter Data</string>
+    <string name="refresh_1">Refresh</string>
+    <string name="settings_1">Settings</string>
+</resources>
